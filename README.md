@@ -65,11 +65,21 @@ This repository lists content suitable for students/faculty to learn Azure and o
 
 * [Cloud-scale machine learning workshop](https://github.com/cloudscaleml) - A workshop designed to get attendees up to speed on the rudiments of modern machine learning at cloud scale.
 
+* [Using The Microsoft Face API to Create Mario Kart Astrology](https://dev.to/azure/using-the-microsoft-face-api-to-create-mario-kart-astrology-3hap) - How to use the Microsoft Face API
+
 ## Event content
 
 * [Microsoft Ignite | The Tour learning paths](https://github.com/microsoft/ignite-learning-paths-training) - train the trainer content for the learning paths taught at Microsoft Ignite | The Tour
 
 * [How do I even?](https://www.howdoieven.dev) - a selection of workshops to run at events
+
+* [Fake call workshop](https://github.com/ChloeCodesThings/FakeCallWorkshop) - Materials to build your own fake boyfriend/boss/sibling/co-worker call with Azure & Twilio
+
+## Hackathon content
+
+* [Connecting your Domain.com domain name to your web app during an MLH hackathon](https://dev.to/azure/connecting-your-domain-com-domain-name-to-your-web-app-during-an-mlh-hackathon-287o) - how to connect a Domain.com domain name to an Azure web app when at an MLH hackathon
+
+* [Hack with Azure](https://github.com/microsoft/hackwithazure) - Resources for students at hackathons
 
 ## K-12 content
 
@@ -78,3 +88,7 @@ This repository lists content suitable for students/faculty to learn Azure and o
 * [Minecraft classroom resource](https://education.minecraft.net/class-resources/lessons/) - resources and lesson plans using Minecraft education edition
 
 * [micro:bit and MakeCode](https://makecode.microbit.org/lessons/) - introduction to computer science lessons using a BBC micro:bit and MakeCode
+
+* [Microsoft Educator Center](https://education.microsoft.com/en-us) - A personalized hub for educators
+
+* [Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy/default.aspx) - Microsoft Imagine Academy gives students and educators the curricula and certifications they need to succeed in a tech-driven economy
