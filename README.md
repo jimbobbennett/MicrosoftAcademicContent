@@ -67,6 +67,10 @@ This repository lists content suitable for students/faculty to learn Azure and o
 
 * [Using The Microsoft Face API to Create Mario Kart Astrology](https://dev.to/azure/using-the-microsoft-face-api-to-create-mario-kart-astrology-3hap) - How to use the Microsoft Face API
 
+* [Connecting your Domain.com domain name to your web app during an MLH hackathon](https://dev.to/azure/connecting-your-domain-com-domain-name-to-your-web-app-during-an-mlh-hackathon-287o) - how to connect a Domain.com domain name to an Azure web app when at an MLH hackathon
+
+* [Hack with Azure](https://github.com/microsoft/hackwithazure) - Resources for students at hackathons
+
 ## Event content
 
 * [Microsoft Ignite | The Tour learning paths](https://github.com/microsoft/ignite-learning-paths-training) - train the trainer content for the learning paths taught at Microsoft Ignite | The Tour
@@ -74,12 +78,6 @@ This repository lists content suitable for students/faculty to learn Azure and o
 * [How do I even?](https://www.howdoieven.dev) - a selection of workshops to run at events
 
 * [Fake call workshop](https://github.com/ChloeCodesThings/FakeCallWorkshop) - Materials to build your own fake boyfriend/boss/sibling/co-worker call with Azure & Twilio
-
-## Hackathon content
-
-* [Connecting your Domain.com domain name to your web app during an MLH hackathon](https://dev.to/azure/connecting-your-domain-com-domain-name-to-your-web-app-during-an-mlh-hackathon-287o) - how to connect a Domain.com domain name to an Azure web app when at an MLH hackathon
-
-* [Hack with Azure](https://github.com/microsoft/hackwithazure) - Resources for students at hackathons
 
 ## K-12 content
 
