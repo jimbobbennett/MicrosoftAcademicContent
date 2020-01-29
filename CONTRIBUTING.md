@@ -56,6 +56,6 @@ Yes! We'd love to know what content you would like, so we can create it for you.
 
 Please raise an [issue](https://github.com/jimbobbennett/MicrosoftAcademicContent/issues). We have a number of labels to use when raising issues like this:
 
-* [inappropriate content](https://github.com/jimbobbennett/MicrosoftAcademicContent/labels/inappropriate%20content) - use this label to flag links to content that does not adhere to our code of conduct](./CODE_OF_CONDUCT.md)
+* [inappropriate content](https://github.com/jimbobbennett/MicrosoftAcademicContent/labels/inappropriate%20content) - use this label to flag links to content that does not adhere to our [code of conduct](./CODE_OF_CONDUCT.md)
 * [broken link](https://github.com/jimbobbennett/MicrosoftAcademicContent/labels/broken%20link) - use this for links that no longer work
 * [outdated content](https://github.com/jimbobbennett/MicrosoftAcademicContent/labels/outdated%20content) - use this for content that is outdated and needs to be updated to the latest version of the relevant tools or technologies. We will then work with the author to get the content updated
