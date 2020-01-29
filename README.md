@@ -107,3 +107,5 @@ We love contributions! Please read the [contribution guide](./CONTRIBUTING.md) b
 * 🇬🇧 [Microsoft Educator Center](https://education.microsoft.com/en-us) - A personalized hub for educators
 
 * 🇬🇧 [Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy/default.aspx) - Microsoft Imagine Academy gives students and educators the curricula and certifications they need to succeed in a tech-driven economy
+
+* 🇬🇧 [Circuit Playground Express and MakeCode](https://learn.adafruit.com/makecode) - resources to use MakeCode with the Adafruit circuit playground express
