@@ -60,7 +60,7 @@ We love contributions! Please read the [contribution guide](./CONTRIBUTING.md) b
 
 * 🇬🇧🕸 [React book](https://softchris.github.io/books/react/) - An eBook on learning React
 
-* 🇬🇧 [Learning Python from Scratch](https://www.youtube.com/watch?v=q6bZcsOhwKk&list=PLG8WGLcszzgWec9s06fMn760bZ7LGV3ya) - Video series covering learning Python from scratch
+* 🇬🇧🖥 [Learning Python from Scratch](https://www.youtube.com/watch?v=q6bZcsOhwKk&list=PLG8WGLcszzgWec9s06fMn760bZ7LGV3ya) - Video series covering learning Python from scratch
 
 * 🇬🇧🕸 [Building Web APIs with Flask](https://www.youtube.com/watch?v=WdY7tZY2jcs&list=PLG8WGLcszzgUATIteQTzPBPYJbiBbaymY) - Video series shpwing how to build Web APIs with Flask
 
