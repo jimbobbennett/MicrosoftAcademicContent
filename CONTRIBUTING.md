@@ -1,4 +1,4 @@
-# Contributing to thie repo
+# Contributing to this repo
 
 🎉Thank you for taking time to contribute to this repo!🎉
 
