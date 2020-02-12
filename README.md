@@ -56,6 +56,8 @@ We love contributions! Please read the [contribution guide](./CONTRIBUTING.md) b
 
 * 🇬🇧🤖 [MXChip Workshop](https://github.com/jimbobbennett/MXChip-Workshop) - a hands on lab for getting started with Azure IoT Hub and the MXChip board
 
+* 🇬🇧🤖[Setting the MXChip connection string in code](https://www.jimbobbennett.io/setting-an-mxchip-connection-string-in-code/) - shows how to set a connection string on an MXChip in code, useful in a computing lab with shared computers and MXChip boards.
+
 * 🇬🇧🕸 [Computer science repo](https://github.com/microsoft/computerscience) - the Microsoft computer science repo with a wide range of content
 
 * 🇬🇧🕸 [React book](https://softchris.github.io/books/react/) - An eBook on learning React
