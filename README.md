@@ -58,6 +58,8 @@ We love contributions! Please read the [contribution guide](./CONTRIBUTING.md) b
 
 * 🇬🇧🤖[Setting the MXChip connection string in code](https://www.jimbobbennett.io/setting-an-mxchip-connection-string-in-code/) - shows how to set a connection string on an MXChip in code, useful in a computing lab with shared computers and MXChip boards.
 
+* 🇬🇧🤖[AgroHack Agrotech workshop](https://github.com/jimbobbennett/AgroHack) - a hands on lab to build an Agrotech solution using a Raspberry Pi and Azure IoT Central
+
 * 🇬🇧🕸 [Computer science repo](https://github.com/microsoft/computerscience) - the Microsoft computer science repo with a wide range of content
 
 * 🇬🇧🕸 [React book](https://softchris.github.io/books/react/) - An eBook on learning React
